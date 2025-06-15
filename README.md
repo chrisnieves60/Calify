@@ -27,7 +27,15 @@ This repository is intentionally **private and does not include source code** du
 
 > 🚀 **Demo, screenshots, and TestFlight invite is available:**
 
-Feel free to reach out via [GitHub](https://github.com/chrisnieves60) or [LinkedIn](https://www.linkedin.com/in/christopher-nieves/).
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/a9de55df-8f92-434e-9214-ebeb935a4cfc" width="200"/>
+  <img src="https://github.com/user-attachments/assets/0a2a5cdd-dd12-46fc-bd00-055d359e3890" width="200"/>
+  <img src="https://github.com/user-attachments/assets/e6f1b8fe-1c94-4508-987a-f6bf61902e9a" width="200"/>
+  <img src="https://github.com/user-attachments/assets/237a86b5-433f-42de-b727-e81d0f7c7d0e" width="200"/>
+</div>
+
+### 📲 Try It Out  
+🔗 [Join the Calify TestFlight](https://testflight.apple.com/join/ExcyH5pN)  
 
 ---
 
