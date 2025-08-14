@@ -28,10 +28,11 @@ This repository is intentionally **private and does not include source code** du
 > 🚀 **This app is live on the app store!:**
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/a9de55df-8f92-434e-9214-ebeb935a4cfc" width="200"/>
-  <img src="https://github.com/user-attachments/assets/0a2a5cdd-dd12-46fc-bd00-055d359e3890" width="200"/>
-  <img src="https://github.com/user-attachments/assets/e6f1b8fe-1c94-4508-987a-f6bf61902e9a" width="200"/>
-  <img src="https://github.com/user-attachments/assets/237a86b5-433f-42de-b727-e81d0f7c7d0e" width="200"/>
+  <img width="200" alt="Image" src="https://github.com/user-attachments/assets/5d1048e7-9ead-4414-8359-dcf2c9b2dcc9" />
+  <img width="200" alt="Image" src="https://github.com/user-attachments/assets/eed4251b-67b1-4add-8d13-643917e9862b" />
+  <img width="200" alt="Image" src="https://github.com/user-attachments/assets/b1cfb2cb-3919-4118-b270-ddb821203afa" />
+  <img width="200" alt="Image" src="https://github.com/user-attachments/assets/b9a6153f-ab79-4aaf-8848-f1a9b125065a" />
+  <img width="200" alt="Image" src="https://github.com/user-attachments/assets/de191b07-3d92-4513-952a-19cdb92f37b8" />
 </div>
 
 ### 📲 Try It Out  
