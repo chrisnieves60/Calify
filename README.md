@@ -25,7 +25,7 @@
 ## ⚠️ Code Access
 This repository is intentionally **private and does not include source code** due to proprietary logic and in-progress development. However:
 
-> 🚀 **Demo, screenshots, and TestFlight invite is available:**
+> 🚀 **This app is live on the app store!:**
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/a9de55df-8f92-434e-9214-ebeb935a4cfc" width="200"/>
@@ -35,12 +35,12 @@ This repository is intentionally **private and does not include source code** du
 </div>
 
 ### 📲 Try It Out  
-🔗 [Join the Calify TestFlight](https://testflight.apple.com/join/ExcyH5pN)  
+🔗 [iOS App Store Link]([https://testflight.apple.com/join/ExcyH5pN](https://apps.apple.com/us/app/calify/id6746539000?platform=iphone))  
 
 ---
 
 ## 📌 Status
-- ✅ TestFlight build released to select users
+- ✅ Live on the app store 
 - 🚧 Calorie/Macro Goals, calorie intake trends, and other features in progress
 - 🎯 Long-term goal: become the fastest, lowest-friction meal tracking app on the market!
 
