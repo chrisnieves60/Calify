@@ -35,7 +35,7 @@ This repository is intentionally **private and does not include source code** du
 </div>
 
 ### 📲 Try It Out  
-🔗 [iOS App Store Link]([https://testflight.apple.com/join/ExcyH5pN](https://apps.apple.com/us/app/calify/id6746539000?platform=iphone))  
+[iOS App Store Link](https://apps.apple.com/us/app/calify/id6746539000?platform=iphone)
 
 ---
 
